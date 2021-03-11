@@ -5,6 +5,6 @@ public class App {
     }
 
     public String greet(String name) {
-        return "Hello " + name + " BREAK TESTS";
+        return "Hello " + name;
     }
 }
